@@ -1,9 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.6">
   <diagram name="Página-1" id="NhnH8_AkqDuypJshAt__">
-    <mxGraphModel>
+    <mxGraphModel dx="833" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-1" value="Início" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-2" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="950" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="P_KJUHCd7QN35n3xMHJB-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_KJUHCd7QN35n3xMHJB-5" target="P_KJUHCd7QN35n3xMHJB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Ler valor" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_KJUHCd7QN35n3xMHJB-6" target="P_KJUHCd7QN35n3xMHJB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Ler taxa" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="380" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_KJUHCd7QN35n3xMHJB-7" target="P_KJUHCd7QN35n3xMHJB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-7" value="prestação = valor + (valor * (taxa/100) * tempo)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="650" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_KJUHCd7QN35n3xMHJB-9" target="P_KJUHCd7QN35n3xMHJB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Ler tempo" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="520" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_KJUHCd7QN35n3xMHJB-12" target="P_KJUHCd7QN35n3xMHJB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_KJUHCd7QN35n3xMHJB-12" value="prestação" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="810" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
