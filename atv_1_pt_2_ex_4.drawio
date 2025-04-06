@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.8">
   <diagram name="Página-1" id="hvpuADQu6Tf2Ugvd6dDh">
-    <mxGraphModel>
+    <mxGraphModel dx="833" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7wzuSp2HX7z2Z-D-2L1-2" target="w7wzuSp2HX7z2Z-D-2L1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-2" value="Início" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-1070" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7wzuSp2HX7z2Z-D-2L1-5" target="w7wzuSp2HX7z2Z-D-2L1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Ler n1" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-940" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7wzuSp2HX7z2Z-D-2L1-6" target="w7wzuSp2HX7z2Z-D-2L1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Ler n2" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-800" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-7" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-240" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7wzuSp2HX7z2Z-D-2L1-12" target="w7wzuSp2HX7z2Z-D-2L1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-9" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7wzuSp2HX7z2Z-D-2L1-8">
+          <mxGeometry x="-0.08" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7wzuSp2HX7z2Z-D-2L1-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-11" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7wzuSp2HX7z2Z-D-2L1-10">
+          <mxGeometry x="-0.02" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-12" value="n1 = n2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-14" value="&quot;Os números são iguais&quot;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-20" value="n1 &amp;gt; n2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="w7wzuSp2HX7z2Z-D-2L1-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-22" value="Verdadeiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7wzuSp2HX7z2Z-D-2L1-21">
+          <mxGeometry x="-0.08" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7wzuSp2HX7z2Z-D-2L1-23" target="w7wzuSp2HX7z2Z-D-2L1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-23" value="&quot;Os números são diferentes &quot; n1, n2" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.5" y="-370" as="sourcePoint" />
+            <mxPoint x="359.5" y="-250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-25" value="Falso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w7wzuSp2HX7z2Z-D-2L1-24">
+          <mxGeometry x="-0.02" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7wzuSp2HX7z2Z-D-2L1-26" target="w7wzuSp2HX7z2Z-D-2L1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-26" value="&quot;Os números são diferentes &quot; n2, n1" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-250" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7wzuSp2HX7z2Z-D-2L1-27" target="w7wzuSp2HX7z2Z-D-2L1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w7wzuSp2HX7z2Z-D-2L1-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-230" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
